@@ -1,3 +1,4 @@
+region: us-west-2
 vpcid: vpc-0276ae9080987ecbc
 pubsub1id: subnet-031c6fc7896669e61
 pubsub2id: subnet-0512c74152b773edd
